@@ -23,7 +23,7 @@ How scraper.bat Works
 
 2- Unpack
 
-3- Open "scraper.bat" file and change "PATHTOROMS" in line 6 to path to your roms.
+3- Open "scraper.bat" file and change the "PATHTOROMS" in line 6 to the path to your roms.
 
 4- Save
 
