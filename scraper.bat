@@ -20,7 +20,7 @@ FOR /f "tokens=*" %%d IN ('DIR /a:d /b "%main_dir%"') DO (
 		-rom_dir "%main_dir%\%%d" ^
 		-output_file "%main_dir%\%%d\gamelist.xml" ^
 		-image_dir "%main_dir%\%%d\images" ^
-        -console_src gdb, ss, ovgdb
+		-console_src gdb, ss, ovgdb
 )
 
 ECHO Done scraping ROMs...
