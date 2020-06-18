@@ -20,11 +20,17 @@ scraper.bat
 How scraper.bat Works
 ---------------------
 1- Download the latest release
+
 2- Unpack
+
 3- Open "scraper.bat" file and change "PATHTOROMS" in line 6 to path to your roms.
+
 4- Save
+
 5- Double click the scraper.bat (or run it in cmd)
 
-Note:
+
+Note
+------
 You can change the source of scrapper by changing the order of "console_src" argument in the scraper.bat. 
 ss=screenscraper, ovgdb=OpenVGDB, gdb=theGamesDB
